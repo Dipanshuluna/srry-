@@ -17,7 +17,7 @@ export default function App(){
   const changeTitle=(key,val)=>key==='title'?setTitle(val):setFriend(val);
   return <main className="app-shell">
     <div className="ambient ambient-one"/><div className="ambient ambient-two"/>
-    <header className="topbar"><div className="brand"><span className="brand-mark"><Heart size={14}/></span><span>little things left unsaid</span></div><div className="top-note">A small apology, made with care <span className="top-dot"/></div><button className="icon-button" aria-label="Toggle fullscreen" onClick={full}><Expand size={16}/></button></header>
+    <header className="topbar"><div className="brand"><span className="brand-mark"><Heart size={14}/></span><span>little things left unsaid</span></div><div className="top-note">A little apology, made by Dipanshu <span className="top-dot"/></div><button className="icon-button" aria-label="Toggle fullscreen" onClick={full}><Expand size={16}/></button></header>
     <section className="stage" aria-label="Apology visualizer">
       <CircularVisualizer audio={playerRef} sensitivity={sensitivity} motion={motion} theme={theme}/>
       <div className="center-copy">
