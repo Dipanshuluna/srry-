@@ -1,0 +1,22 @@
+export const phrases = [
+  'I am so sorry','I was wrong','Please forgive me','I take full responsibility','That was my mistake',
+  'I should have listened','I owe you an apology',"I didn’t mean to hurt you",'I’m sorry I let you down','I messed up',
+  'I truly regret my words','I was selfish','I should have been there','I’m sorry for yelling','I wasn’t honest',
+  'I was not thinking of you','I handled it badly','I’m ashamed of how I acted','You deserved better','I broke my promise',
+  'I’m sorry I forgot','I put my pride first','I’m sorry I didn’t call','I was unfair to you','I judged too quickly',
+  'I dismissed your feelings','I should have trusted you','I’m sorry I interrupted','I wasn’t fair','I made it about me',
+  'I’m sorry I was distant','I was late again','I ignored what you needed','I let my temper win','I said things I didn’t mean',
+  'I made you worry','I didn’t see your side','I should have asked first','I stayed silent','I took you for granted',
+  'I was careless','My words were unkind','I’m sorry for the silence','I was too proud to say it','I wasn’t listening',
+  'I hurt someone I love','I broke your trust','I should have said sooner','I’m sorry it took so long','I made excuses',
+  'No excuses, just sorry','I want to make it right','Let me make it up to you','I’m here to listen now','I’ll do better, I promise',
+  'I’ll be more patient','I’m learning from this','Tell me how to fix it','I miss you, and I’m sorry','You matter more than winning',
+  'I can’t lose you over this','I’m sorry for the hurt','I wish I could undo it','I’d take it back if I could','I was scared and lashed out',
+  'I let stress speak for me','I wasn’t kind','You didn’t deserve that','It was never your fault','I blamed you unfairly',
+  'I compared us','I didn’t keep my word','I should have shown up','I should have been gentler','I made you feel small',
+  'I didn’t value your time','I made the wrong choice','I should have been honest','I made you feel alone','I forgot what mattered',
+  'I acted without thinking','I’m sorry for the damage','I’ll earn back your trust','I don’t expect instant forgiveness','I just want you to know',
+  'I care about your feelings','I should have been thoughtful','I was wrong to assume','I should have asked','I’m sorry I wasn’t present',
+  'I want to understand','I’ll give you space','I’ll respect what you need','I’m sorry, from my heart','You deserved my best',
+  'I’ll show you I mean it','Thank you for hearing me','I hope we can heal','I love you. I’m sorry','I’m sorry. Always.'
+];
